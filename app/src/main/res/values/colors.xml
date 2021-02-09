@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="prio1">#FF3232</color>
+    <color name="prio3">#32FF32</color>
+    <color name="prio2">#FFFF32</color>
+    <color name="imgBack">#7995FF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
